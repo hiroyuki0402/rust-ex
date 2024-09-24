@@ -1,0 +1,1 @@
+/Users/shiraishihiroyuki/Desktop/rust-ex/target/debug/rust-ex: /Users/shiraishihiroyuki/Desktop/rust-ex/src/main.rs /Users/shiraishihiroyuki/Desktop/rust-ex/src/mutble_immutble_basic/mutble_immutble.rs /Users/shiraishihiroyuki/Desktop/rust-ex/src/mutble_immutble_basic.rs
